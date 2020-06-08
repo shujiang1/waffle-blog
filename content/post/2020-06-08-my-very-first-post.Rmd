@@ -1,0 +1,19 @@
+---
+title: My Very First Post
+author: 'Shu '
+date: '2020-06-08'
+slug: my-very-first-post
+categories: []
+tags: []
+---
+
+# Hello, this is my first post
+## This is the second level *heading*
+### And this of course is the third level **heading**
+
+I don't have a cool picture to insert here though
+
+But I can write a LaTex equation although it is incorrect :p
+$$
+1 + 1 = 1
+$$

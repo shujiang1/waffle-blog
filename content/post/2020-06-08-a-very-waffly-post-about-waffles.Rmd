@@ -1,0 +1,46 @@
+---
+title: A very waffly post about waffles
+author: Stringr Belle
+date: '2020-06-08'
+slug: a-very-waffly-post-about-waffles
+categories: []
+tags: []
+---
+
+Markdown is just plain text:
+-unnumbered lists
+-look like this
+
+1. numbered lists
+2. look lik this
+
+this is *italicised*
+this is **boldfaced**
+
+I want to talk about waffles. But the truth is that I aactually don't know that much about waffles. Here are some things I don't know:
+
+- this 
+- that
+- anything else
+
+You write out the logical contents in text and this is a separate file that handle the styles
+
+# Level 1 heading
+## Level 2 heading
+### Level 3 heading
+
+To insert an image:
+![](https://placekitten.com/400/400)
+
+To insert a URL:
+https://placekitten.com
+
+To make a named link:
+[Placekitten](https://placekitten.com)
+
+To insert a LaTex equation:
+$$
+1 + 3 = 7
+$$
+
+
