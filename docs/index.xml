@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Slumdown</title>
+    <title>Home on WAFFLE BLOG</title>
     <link>/</link>
-    <description>Recent content in Home on Slumdown</description>
+    <description>Recent content in Home on WAFFLE BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
@@ -21,6 +21,17 @@
 numbered lists look lik this  this is italicised this is boldfaced
 I want to talk about waffles. But the truth is that I aactually don’t know that much about waffles. Here are some things I don’t know:
  this that anything else  You write out the logical contents in text and this is a separate file that handle the styles</description>
+    </item>
+    
+    <item>
+      <title>My Very First Post</title>
+      <link>/post/my-very-first-post/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/my-very-first-post/</guid>
+      <description> Hello, this is my first post This is the second level heading And this of course is the third level heading I don’t have a cool picture to insert here though
+But I can write a LaTex equation although it is incorrect :p \[ 1 + 1 = 1 \]
+   </description>
     </item>
     
     <item>
