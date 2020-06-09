@@ -1,0 +1,31 @@
+---
+title: Using R Markdown
+author: 'Shu '
+date: '2020-06-08'
+slug: using-r-markdown
+categories: []
+tags: []
+---
+
+this section is written in markdown. iT is used primarily not exclusively for discussion, explanation, etc.
+
+```{r packageload, message=FALSE}
+# load packages
+library(tidyverse)
+```
+
+This would usually be about waffles, but instead I will do something boring with cars and the `mpg` data frame. Oh and I will also illustrate the use of inline R commends `r 1+6`
+
+```{r picture}
+#install.packages("ggplot2")
+library(ggplot2)
+pic <- ggplot(mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy))
+```
+This chunk has created the `pic` variable to draw the plot we just include the R command `print(pic)`
+
+```{r plot}
+print(pic)
+```
+
+

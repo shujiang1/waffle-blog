@@ -35,6 +35,16 @@ But I can write a LaTex equation although it is incorrect :p \[ 1 + 1 = 1 \]
     </item>
     
     <item>
+      <title>Using R Markdown</title>
+      <link>/post/using-r-markdown/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-r-markdown/</guid>
+      <description>this section is written in markdown. iT is used primarily not exclusively for discussion, explanation, etc.
+# load packages library(tidyverse) This would usually be about waffles, but instead I will do something boring with cars and the mpg data frame. Oh and I will also illustrate the use of inline R commends 7</description>
+    </item>
+    
+    <item>
       <title>Tutorial part 1: Getting started</title>
       <link>/post/getting-started/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
